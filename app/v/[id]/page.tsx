@@ -161,7 +161,7 @@ const jsonLd = {
         {/* ... */}
         </section>
             <iframe
-                className="w-full h-[30vh] md:h-[55vh] lg:h-[70vh]"
+                className="w-full h-[90vh] md:h-[90vh] lg:h-[90vh]"
                 src={`https://${upstream}/e/${file.filecode}`}
                 scrolling="no"
                 title={file.title}
